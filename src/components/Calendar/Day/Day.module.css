@@ -1,0 +1,15 @@
+.day{
+  color:#B7B7B7;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 5px;
+}
+.curDay{
+  width: 10px;
+  height: 10px;
+  border: 3px solid #EB1B57;
+  color: #EB1B57;
+  font-weight: bold;
+  border-radius: 50%;
+  padding: 5px;
+}
